@@ -7,10 +7,18 @@ This repository showcases my journey through the ALX Data Analytics program — 
 
 ## 🧭 Projects
 
-### 1. Maji Ndogo Integrated Project
-**Goal:** Analyze access to clean water across regions and identify improvement areas.  
-**Tools:** SQL, Excel, (Power BI/Tableau coming soon).  
-**Key Focus:** Data cleaning, querying, and visual storytelling.  
+### 1. Preparing Data for Analysis: Access to Safe and Affordable Drinking Water
+**Goal:** Investigate global inequalities in access to safe drinking water, focusing on differences between countries and regions.  
+**Focus:** Data cleaning, validation, and transformation.  
+**Why it matters:** Accurate data preparation reveals the true picture behind water access statistics, allowing for fair comparisons across regions.  
+[View Project →](./Preparing_Data_Project/README.md)
+
+---
+
+### 2. Maji Ndogo Integrated Project
+**Goal:** Analyze access to clean and safe water across regions and identify underserved areas.  
+**Focus:** Data cleaning, SQL querying, and (coming soon) Power BI visual storytelling.  
+**Why it matters:** Access to water is fundamental, and this project explores how data can guide better decision-making.  
 [View Project →](./Maji_Ndogo_Project/README.md)
 
 ---
