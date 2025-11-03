@@ -11,7 +11,7 @@ This repository showcases my journey through the ALX Data Analytics program — 
 **Goal:** Investigate global inequalities in access to safe drinking water, focusing on differences between countries and regions.  
 **Focus:** Data cleaning, validation, and transformation.  
 **Why it matters:** Accurate data preparation reveals the true picture behind water access statistics, allowing for fair comparisons across regions.  
-[View Project →](./Preparing_Data_Project/README.md)
+[View Project →](/Preparing_Data_Project/README.md)
 
 ---
 
@@ -19,7 +19,7 @@ This repository showcases my journey through the ALX Data Analytics program — 
 **Goal:** Analyze access to clean and safe water across regions and identify underserved areas.  
 **Focus:** Data cleaning, SQL querying, and (coming soon) Power BI visual storytelling.  
 **Why it matters:** Access to water is fundamental, and this project explores how data can guide better decision-making.  
-[View Project →](./Maji_Ndogo_Project/README.md)
+[View Project →](/Maji_Ndogo_Project/README.md)
 
 ---
 
@@ -32,4 +32,4 @@ This repository showcases my journey through the ALX Data Analytics program — 
 ---
 
 ## 📫 Contact
-[LinkedIn](your-linkedin-url) | [Email](mailto:your-email) | [Medium Blog (Coming Soon)]()
+[LinkedIn](www.linkedin.com/in/bonifacekibet) | [Email](mailto:bonifacekibet50@gmail.com) | [Medium Blog (Coming Soon)]()
